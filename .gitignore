@@ -328,4 +328,5 @@ iremember/media/
 
 .ipython/
 .env
-.envs/*
+# why is this breaking builds if it's supposed to be ignored?
+# .envs/*
