@@ -11,3 +11,9 @@
   background-color: #f2dede;
   border-color: #eed3d7;
 }
+
+body {
+  padding: 2em;
+  font: 2em Helvetica, Arial, sans-serif;
+  color: #000;
+}
