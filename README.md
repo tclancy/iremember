@@ -6,14 +6,11 @@ Django app for relatives with dementia
 Next Steps/ Days
 ================
 
-- Track down git ignore weirdness
-- Get app running and connecting to db
-- Have front page respond
 - Want to be able to communicate problems, e.g., "The TV isn't working" 
   without having to go up and down stairs and forget why.  
 - Figure out JS story
-- Find icon set(s)
-- Build initial menu
+- Replace static calendar icon with dynamic day
+- Track down git ignore weirdness
 
 
 Settings
